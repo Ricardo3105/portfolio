@@ -25,7 +25,7 @@ export const projectsPortfolio = [
     description:
       "Application created with React JS and CSS to make a request an external API of Rick & Morty.",
     repository: "https://github.com/Ricardo3105/RickandMorty",
-    website: "#!", //ustedes deben colocar aquí el link del enlace público de netlify
+    website: "#", //ustedes deben colocar aquí el link del enlace público de netlify
   },
   //   {
   //     title: "Todo list",
