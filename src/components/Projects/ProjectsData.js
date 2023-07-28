@@ -25,7 +25,7 @@ export const projectsPortfolio = [
     description:
       "Application created with React JS and CSS to make a request an external API of Rick & Morty.",
     repository: "https://github.com/Ricardo3105/RickandMorty",
-    website: "#", //ustedes deben colocar aquí el link del enlace público de netlify
+    website: "https://rickand-morty-mu.vercel.app/", //ustedes deben colocar aquí el link del enlace público de netlify
   },
   //   {
   //     title: "Todo list",
@@ -49,7 +49,7 @@ export const projectsPortfolio = [
     description:
       "Application created with React JS and Styled Components to make a request an external API of Simpsons.",
     repository: "https://github.com/Ricardo3105/TheSimpsons",
-    website: "#!", //ustedes deben colocar aquí el link del enlace público de netlify
+    website: "https://the-simpsons-amber.vercel.app/", //ustedes deben colocar aquí el link del enlace público de netlify
   },
   {
     title: "Dynamic Form",
